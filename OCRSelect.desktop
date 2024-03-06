@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=OCR Application
+Comment=Run OCR Script
+Exec=python3 ~/Documents/OCR/OCRselect.py
+Icon=~/.icons/textOCR.svg
+Terminal=false
+Type=Application
+Categories=Utility;
